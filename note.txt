@@ -1,0 +1,2 @@
+add package to the target project
+- Settings -> Project - Project Interpreter
